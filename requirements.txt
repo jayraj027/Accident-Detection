@@ -1,0 +1,6 @@
+opencv-python
+flask
+flask-cors
+tensorflow
+paho-mqtt==1.6.1
+requests
